@@ -1,0 +1,15 @@
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\bin\Debug\net6.0\AutoCore.deps.json
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\bin\Debug\net6.0\AutoCore.dll
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\bin\Debug\net6.0\AutoCore.pdb
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\AutoCore.csproj.AssemblyReference.cache
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\AutoCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\AutoCore.AssemblyInfoInputs.cache
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\AutoCore.AssemblyInfo.cs
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\AutoCore.csproj.CoreCompileInputs.cache
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\AutoCore.dll
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\refint\AutoCore.dll
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\AutoCore.pdb
+C:\Users\NguyetCT1\Documents\Document\Automation test\MockProject_Nguyetct1\AutoCore\obj\Debug\net6.0\ref\AutoCore.dll
